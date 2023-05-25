@@ -7,6 +7,7 @@ This is an organization where all my projects are collected for my own training
 # C
 * [polynomials](https://github.com/Nomad192-educational-projects/polynomials) - Polynomials and operations with them (+,-,*,/) in c
 * [c-logs](https://github.com/Nomad192-educational-projects/c-logs) - Flexible logging system in C
+
 ---
 
 # C++
@@ -31,6 +32,9 @@ This is an organization where all my projects are collected for my own training
   * [Import Substitution tracking System](https://github.com/Nomad192/Import-Substitution-tracking-System) - Developed as part of the "Digital OilHack" hackathon. The project includes a website written using the following technologies: html, css, javascript, php, as well as a database written in java.
 
 ---
+
 # Bat
   * [Push mirror script](https://github.com/Nomad192/push_mirror_script) - script for sending all git repositories from a folder to a mirror
   * [Run Cmake](https://github.com/Nomad192/run_cmake) - script to run compilation, build and launch the project with one command from the cmd command line
+
+---
